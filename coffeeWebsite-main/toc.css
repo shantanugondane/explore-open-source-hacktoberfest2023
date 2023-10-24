@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+body {
+  background-image: url("coffeeplantation.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+    background-color: #402218;
+    color: #fff;
