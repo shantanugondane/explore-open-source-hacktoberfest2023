@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+}
+body {
+  background-image: url("coffeeplantation.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+  background-color: #402218;
+  color: #fff;
+}
+.navbar-brand {
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  font-size: large;
+  left: 75px;
+  margin-left: 20px;
+}
+.nav-item {
+  position: relative;
+  left: 900px;
+  margin-right: 40px;
+  font-family: "Poppins", sans-serif;
+  font-size: large;
+}
+.carousel-image {
+  height: 300px;
+}
+.carousel {
+  margin: 20px 100px 20px 100px;
+}
+#information {
+  background-color: #c68b59;
+  margin: 20px 100px 20px 100px;
+  padding: 60px;
+  color: #fff;
+}
+.map {
+  position: relative;
+  left: 180px;
+}
+p {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+h1 {
+  font-family: "Redressed", cursive;
+}
+#history {
+  background-color: #c68b59;
+  margin: 20px 100px 20px 100px;
+  padding: 60px;
+  color: #fff;
+}
+.kaldi {
+  float: right;
+  width: 250px;
+}
+#toc {
+  background-color: #c68b59;
+  margin: 20px 100px 20px 100px;
+  padding: 60px;
+  color: #fff;
+}
